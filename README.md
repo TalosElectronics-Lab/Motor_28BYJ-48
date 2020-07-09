@@ -1,1 +1,4 @@
-# Motor_28BYJ-48
+# Motor paso a paso unipolar 28BYJ-48
+El motor** 28BYJ-48 tiene un paso de 5.625 grados** (64 pasos por vuelta). sin embargo el motor incorpora un reductor interno con **relación de 1/64** por lo que la precisión total es de 4096 pasos por vuelta, equivalente a un paso de **0.088º** pero estos datos son los ideales pero en realidad s**e necesitan 4076 pasos para completar una vuelta.**
+![](https://cdn.shopify.com/s/files/1/0020/8027/6524/files/Portada_PAP_ULN2003_1024x1024.png?v=1594240873)
+Tutorial disponible en [**www.taloselectronics.com**](https://www.taloselectronics.com/blogs/tutoriales/motor-a-paso-a-paso "www.taloselectronics.com")
